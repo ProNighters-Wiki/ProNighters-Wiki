@@ -12,4 +12,10 @@ This page is a stub. You can edit this page by going to [GitHub](bumpybanger3.md
 {% endhint %}
 
 **Information:**\
-The creator of the pronighters<br>
+The creator of the pronighters. Sadly kicked by Sebee due to suspicion of hacked account
+
+**Role:** Pro or High Rank (in ProNighters)
+
+**Join Date:** 7 June 2023
+
+**Roblox Username:** [bumpybanger3](https://www.roblox.com/users/1010130824/profile)
