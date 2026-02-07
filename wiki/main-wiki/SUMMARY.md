@@ -7,3 +7,4 @@
 
 * [bumpybanger3](staff/bumpybanger3.md)
 * [Habclan](staff/habclan.md)
+* [Maxpq](staff/maxpq.md)
