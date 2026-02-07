@@ -5,7 +5,7 @@
 This page is a stub. You can edit this page by going to [GitHub](staff-list.md) or [GitLab](https://gitlab.com/the-pronighters/ProNighters-Wiki/-/blob/main/wiki/main-wiki/staff-list.md)!
 {% endhint %}
 
-List of staffs on ProNighters:\
+List of staff on ProNighters:\
 \
 **High Ranks:** [bumpybanger3](staff/bumpybanger3.md), [Habclan](staff/habclan.md), sebee\
 **Head @min:** [Maxpq](staff/maxpq.md)\
