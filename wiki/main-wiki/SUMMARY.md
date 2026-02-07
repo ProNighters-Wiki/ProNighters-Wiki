@@ -10,3 +10,5 @@
 * [Maxpq](staff/maxpq.md)
 * [Purple](staff/purple.md)
 * [Endoxen](staff/endoxen.md)
+* [Expiration](staff/expiration.md)
+* [Hyperlink](staff/hyperlink.md)

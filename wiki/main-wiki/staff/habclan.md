@@ -7,7 +7,7 @@ description: The server construction worker
 {% hint style="warning" %}
 **This page is a stub!**\
 This page is a stub. You can edit this page by going to [GitHub](habclan.md) or [GitLab](https://gitlab.com/the-pronighters/ProNighters-Wiki/-/blob/main/wiki/main-wiki/staff/habclan.md)!\
-Information Required: Further Information
+Requires: Further Information
 {% endhint %}
 
 **Information:**\
