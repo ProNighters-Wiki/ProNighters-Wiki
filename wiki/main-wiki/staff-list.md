@@ -10,5 +10,5 @@ List of staff on ProNighters:\
 **High Ranks:** [bumpybanger3](staff/bumpybanger3.md), [Habclan](staff/habclan.md), sebee\
 **Head @min:** [Maxpq](staff/maxpq.md)\
 **Head Host:** [Purple](staff/purple.md)\
-**@min:** [Endoxen](staff/endoxen.md), [Expiration](staff/expiration.md), [Hyperlink](staff/hyperlink.md)\
+&#xNAN;**@min:** [Endoxen](staff/endoxen.md), [Expiration](staff/expiration.md), [Hyperlink](staff/hyperlink.md)\
 **Host:** Azka09irgi, Mr Cheese, Mecha, Proxy, Shadow
