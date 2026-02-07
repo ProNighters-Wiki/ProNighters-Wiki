@@ -9,3 +9,4 @@
 * [Habclan](staff/habclan.md)
 * [Maxpq](staff/maxpq.md)
 * [Purple](staff/purple.md)
+* [Endoxen](staff/endoxen.md)

@@ -11,7 +11,7 @@ Information Required: Further information
 {% endhint %}
 
 **Information:**\
-The @min of ProNighters.
+The @min on ProNighters. Formerly a host
 
 **Role:** @min
 
