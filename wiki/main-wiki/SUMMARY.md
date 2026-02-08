@@ -3,12 +3,19 @@
 * [Welcome to the ProNighters Wiki!](README.md)
 * [Staff List!](staff-list.md)
 
-## Staff
+## High Ranks
 
-* [bumpybanger3](staff/bumpybanger3.md)
-* [Habclan](staff/habclan.md)
-* [Maxpq](staff/maxpq.md)
-* [Purple](staff/purple.md)
-* [Endoxen](staff/endoxen.md)
-* [Expiration](staff/expiration.md)
-* [Hyperlink](staff/hyperlink.md)
+* [bumpybanger3](high-ranks/bumpybanger3.md)
+* [Habclan](high-ranks/habclan.md)
+* [Maxpq](high-ranks/maxpq.md)
+* [Purple](high-ranks/purple.md)
+
+## @mins
+
+* [Endoxen](mins/endoxen.md)
+* [Expiration](mins/expiration.md)
+* [Hyperlink](mins/hyperlink.md)
+
+## Hosts
+
+* [Azka09irgi](hosts/azka09irgi.md)

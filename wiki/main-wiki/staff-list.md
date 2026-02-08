@@ -7,8 +7,8 @@ This page is a stub. You can edit this page by going to [GitHub](staff-list.md) 
 
 List of staff on ProNighters:\
 \
-**High Ranks:** [bumpybanger3](staff/bumpybanger3.md), [Habclan](staff/habclan.md), sebee\
-**Head @min:** [Maxpq](staff/maxpq.md)\
-**Head Host:** [Purple](staff/purple.md)\
-&#xNAN;**@min:** [Endoxen](staff/endoxen.md), [Expiration](staff/expiration.md), [Hyperlink](staff/hyperlink.md)\
+**High Ranks:** [bumpybanger3](high-ranks/bumpybanger3.md), [Habclan](high-ranks/habclan.md), sebee\
+**Head @min:** [Maxpq](high-ranks/maxpq.md)\
+**Head Host:** [Purple](high-ranks/purple.md)\
+&#xNAN;**@min:** [Endoxen](mins/endoxen.md), [Expiration](mins/expiration.md), [Hyperlink](mins/hyperlink.md)\
 **Host:** Azka09irgi, Mr Cheese, Mecha, Proxy, Shadow

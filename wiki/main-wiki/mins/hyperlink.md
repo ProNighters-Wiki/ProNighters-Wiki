@@ -1,0 +1,20 @@
+---
+description: The @min
+---
+
+# Hyperlink
+
+{% hint style="danger" %}
+**This page is a stub!**\
+This page is a stub. You can edit this page by going to [GitHub](hyperlink.md) or [GitLab](https://gitlab.com/the-pronighters/ProNighters-Wiki/-/blob/main/wiki/main-wiki/staff/hyperlink.md)!\
+Requires: Further information
+{% endhint %}
+
+**Information:**\
+The @min on ProNighters.
+
+**Role:** @min
+
+**Join Date:** 1 April 2024
+
+**Roblox Username:** [candythehusky4](https://www.roblox.com/users/1858662793/profile)
